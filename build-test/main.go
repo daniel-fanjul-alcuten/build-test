@@ -1,9 +1,9 @@
 package main
 
 import (
-	. "dfanjul/build"
 	"flag"
 	"fmt"
+	. "github.com/daniel-fanjul-alcuten/build-test"
 	"io/ioutil"
 	"log"
 	"os"
